@@ -27,7 +27,7 @@ namespace StorageQueueSend
 
         public override string ToString()
         {
-            return $"Id : {Id}, Quantity : {name}";
+            return $"Id : {Id}, Name : {name}";
         }
     }
 }

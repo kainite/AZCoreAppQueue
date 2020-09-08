@@ -6,7 +6,7 @@ namespace StorageQueueSend
 {
     class Program
     {
-        private static string queue_connection_string = "DefaultEndpointsProtocol=https;AccountName=demostore4000;AccountKey=uI8S20b/ONyuT5eYqGlRl2dZbkb36DdJ0UwahAttG4Mo+heo5gFCm4qdLVa2De5PqilIIjwwZIr4ProGW3xYpw==;EndpointSuffix=core.windows.net";
+        private static string queue_connection_string = "DefaultEndpointsProtocol=https;AccountName=hugosilvastorage;AccountKey=v6k2ElufsjO1fz3cKGq/X2gcYCghmqhlFm5XgekkO7md/ZHjwwHfoApwhWqPX2FaXCH/b1XeWASZDZS1eYfcEQ==;EndpointSuffix=core.windows.net";
         private static string queue_name = "appqueue";
         static void Main(string[] args)
         {
